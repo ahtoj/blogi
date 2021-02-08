@@ -20,10 +20,10 @@
 
 title: Ahto blogi
 email: ahto.jalak@ttu.ee
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   See blogi on koostatud iseseisvalt ja tekst on puhtalt isiklik arvamus. See blogi on ITSPEA koolitöö tulemus.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blogi"
+url: "https://ahtoj.github.io"
 twitter_username: aht_o
 github_username:  ahtoj
 
