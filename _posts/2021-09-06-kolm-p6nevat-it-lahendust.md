@@ -25,7 +25,14 @@ Aastal 2016 loodi ettevõte Neuralink, mis arendab liidest inimese aju ja arvuti
 
 # Allikad
 
-[1] https://www.salon.com/1998/12/21/straight_44/
-[2] https://appleinsider.com/articles/18/06/29/the-story-of-the-original-iphone-that-nobody-thought-was-possible
-[3] https://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs
-
+<ul style="list-style-type:none;">
+  <li>
+    [1] <a href="https://www.salon.com/1998/12/21/straight_44/">https://www.salon.com/1998/12/21/straight_44/</a>
+  </li>
+  <li>
+    [2] <a href="https://appleinsider.com/articles/18/06/29/the-story-of-the-original-iphone-that-nobody-thought-was-possible">https://appleinsider.com/articles/18/06/29/the-story-of-the-original-iphone-that-nobody-thought-was-possible</a>
+  </li>
+  <li>
+    [3] <a href="https://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs">https://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs</a>
+  </li>
+</ul>
