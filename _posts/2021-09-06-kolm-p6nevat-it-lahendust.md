@@ -18,8 +18,6 @@ Aastal 2007 tuli välja esimene versioon iPhone’st, mis muutis olulisel määr
 
 # Neuralink, aasta 2016
 
-Neuralink, aasta 2016
-
 Aastal 2016 loodi ettevõte Neuralink, mis arendab liidest inimese aju ja arvuti vahel. Eesmärk on luua seade, mida saab paigaldada inimese ajju ja selle abil aidata inimestel tarkvaraga sulanduda ja tehisintellekti edusammudega sammu pidada. Selline leiutis võib olla kasulik, et aidata inimese mälu parandada või luua võimalus otsesemaks liidestamiseks arvutitehnikaga. Kindlasti kõige suuremat kasu toob selline seade meditsiini valdkonnas.
 
 
