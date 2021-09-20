@@ -9,7 +9,9 @@ Uus meedia võimaldab uudistele ligipääsu reaalajas, neid kiiresti erinevates 
 
 Negatiivne aspekt on see, et kuna uues meedia on palju keskkondi, publik on väga lai, tarbija saab ise uudiseid mõjutada ning uudiste loojatel on tihti oma kaudsed ärilised eesmärgid, siis võib juhtuda, et fakte hakatakse kallutama ja tõlgendama endale kasulikul viisil. Tihti ei viidata korrektselt ametlikele allikatele või toetutakse puhtalt teiste arvamusel.
 
-Järjest kriitilisemaks muutub „valeuudiste“ temaatika. Järjest rohkem on oluline uues meedias orienteeruda ja fakte kontrollida – siin me juba pöördume tagasi traditsioonilise meedia poole, kus on teada artikli autor ja faktid on suurema tõenäosusega kontrollitud ning korrektselt toimetatud. Seega traditsioonilise meedia kasuks räägib see, et uudise taga on konkreetne inimene ja tema reputatsioon – seega sotsiaalse surve tõttu on oluline, et see inimene, midagi välja öeldes, on fakte kontrollinud ning suudab toetuda ametlikele allikatele ja põhjendada oma arvamust. Traditsiooniline meedia on natuke rohkem usutavam ja lihtsamalt tarbitav – alati ei ole vaja igal võimalikul viisil enda isiklikku arvamust üle maailma kuulutada.
+Järjest kriitilisemaks muutub „valeuudiste“ temaatika. Järjest rohkem on oluline uues meedias orienteeruda ja fakte kontrollida – siin me juba pöördume tagasi traditsioonilise meedia poole, kus on teada artikli autor ja faktid on suurema tõenäosusega kontrollitud ning korrektselt toimetatud. Traditsioonilise meedia kasuks räägib see, et uudise taga on konkreetne inimene ja tema reputatsioon – seega sotsiaalse surve tõttu on oluline, et see inimene, midagi välja öeldes, on fakte kontrollinud ning suudab toetuda ametlikele allikatele ja põhjendada oma arvamust.
+
+Traditsiooniline meedia on natuke rohkem usutavam ja lihtsamalt tarbitav – alati ei ole vaja igal võimalikul viisil enda isiklikku arvamust üle maailma kuulutada.
 
 
 # Allikad
