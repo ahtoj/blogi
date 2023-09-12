@@ -32,6 +32,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+mini_magick:
+    photoFolders:
+        source: images/gallery
+        destination: thumbnails/images/gallery
+        resize: "320x240^"
+        gravity: "center"
+        extent: "320x240"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
