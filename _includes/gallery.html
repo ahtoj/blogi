@@ -1,5 +1,4 @@
 <div id="{{include.albumname}}">
-
     {% for image in site.static_files %}
         {% if image.path contains 'images/gallery' and image.path contains include.albumname %}
             <a href="{{ image.path }}" data-sub-html="{% exiftag image_description, , {{ image.path }} %}" >
@@ -7,10 +6,9 @@
             </a>
         {% endif %}
     {% endfor %}
-
 </div>
 <script>
     $('#{{include.albumname}}').lightGallery({
-    thumbnail:true
-});
+        thumbnail:true
+    });
 </script>
