@@ -2,10 +2,9 @@
     {% for image in site.static_files %}
         {% if image.path contains 'images/gallery' and image.path contains include.album_name %}
             {% unless image.path contains 'thumbnails' %}
-                <a href="/blogi/{{ image.path }}" data-sub-html="{% exiftag image_description, , {{ image.path }} %}">
+                <a href="/blogi/{{ image.path }}">
                     <img width="100" src="/blogi/{{ image.path }}" />
                 </a>
-                <small>{% exiftag date_time, , {{ image.path }} %}</small>
             {% endunless %}
         {% endif %}
     {% endfor %}
