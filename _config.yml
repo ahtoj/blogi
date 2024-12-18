@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,18 +19,27 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ahto blogi
-email: ahto.jalak@ttu.ee
+email: ahto.jalak@gmail.com
 description: >-
   See blogi on koostatud iseseisvalt ja tekst on puhtalt isiklik arvamus. See blogi on ITSPEA koolitöö tulemus.
 baseurl: /blogi
 url: https://ahtoj.github.io
 twitter_username: aht_o
-github_username:  ahtoj
+github_username: ahtoj
+instagram_username: aht_o
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-leaflet
+  - jekyll-exiftag
+  - jekyll-spaceship
+
+exiftag:
+  sources:
+    - assets/
+    - photos/other_source
 
 # Exclude from processing.
 # The following items will not be processed, by default.

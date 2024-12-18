@@ -1,0 +1,4 @@
+{% capture image_datetime %}
+{% exiftag date_time, , include.path %}
+{% endcapture %}
+{{ image_datetime | date: "%b %-d, %Y" }}

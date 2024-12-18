@@ -4,3 +4,12 @@
 
 layout: home
 ---
+<div id="archives">
+    Categories:
+    {% for category in site.categories %}
+    <ul style="display: inline; margin-left:0;">
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        <li style="display: inline;">{{ category_name }}</li>
+    </ul>
+    {% endfor %}
+</div>
